@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shader/rect.frag</file>
+        <file>shader/rect.vert</file>
+        <file>image/wall.jpg</file>
+    </qresource>
+</RCC>
